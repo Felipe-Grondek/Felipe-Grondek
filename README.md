@@ -34,7 +34,6 @@
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/260536727_636074237424336_9197456689713847414_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=100&_nc_ohc=yFHW_hoya6MAX_offuM&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfB8tSjZf7A82mm6fz4Vd2_vsc6oTPubNrJLnSMgD7fbKw&oe=63626D74&_nc_sid=1527a3?width=676&height=676">
 </div>
   
   ##
