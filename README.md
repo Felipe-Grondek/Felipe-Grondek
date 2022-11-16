@@ -3,7 +3,7 @@
 ## Olá, Bem-vindo(a) ao meu github!
 
 <p align="left"> 
-  Me chamo Felipe Grondek, tenho 22 anos e atualmente moro em Campinas, São Paulo.
+  Me chamo Felipe Grondek, tenho 22 anos e moro em Campinas, São Paulo.
   </br>
   </br>
   Atualmente, Sou um estudante de Desenvolvimento FullStack na Kenzie Academy Brasil.
